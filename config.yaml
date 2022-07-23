@@ -1,5 +1,5 @@
 region: London
-geohash_level: 8
+geohash_precision: 8
 
 crs:
   meters: epsg:27700
